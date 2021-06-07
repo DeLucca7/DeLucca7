@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Eduardo de Lucca 👋
  
-  Estudante de Ciência da Computação 💻
+  Atualmente sou estudante de Ciência da Computação, complemento meus conhecimentos com cursos a parte como por exemplo "Java", "Full-Stack Front-End" e "Competência Transversal". 💻
  ##
  <div>
   <a href="https://github.com/DeLucca7">
