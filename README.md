@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Eduardo de Lucca 👋
  
-  Atualmente sou estudante de Ciência da Computação, complemento meus conhecimentos com cursos a parte como por exemplo "Java", "Full-Stack Front-End" e "Competência Transversal". 💻
+  Atualmente sou estudante de Ciência da Computação e estagiário no PagSeguro PagBank. 💻
  ##
  <div>
   <a href="https://github.com/DeLucca7">
