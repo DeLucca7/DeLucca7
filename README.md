@@ -4,8 +4,8 @@
  ##
  <div>
   <a href="https://github.com/DeLucca7">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeLucca7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLucca7&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://readme-stats-dusky-six.vercel.app/api?username=DeLucca7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://readme-stats-dusky-six.vercel.app/api/top-langs/?username=DeLucca7&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
